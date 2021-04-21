@@ -1,4 +1,4 @@
-/*  simplifying the code using separate class for connection (DbUtils2.java)
+/*  simplifying the code using separate class for connection (DbUtils.java)
  * 
  */
 package pages;
