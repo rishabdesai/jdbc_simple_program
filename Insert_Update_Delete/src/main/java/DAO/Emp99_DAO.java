@@ -35,7 +35,6 @@ public class Emp99_DAO implements Closeable{
 		}	
 		return empList;
 	}
-
 	
 	
 	@Override

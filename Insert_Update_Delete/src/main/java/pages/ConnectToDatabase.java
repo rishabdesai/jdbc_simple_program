@@ -5,8 +5,10 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-public class ConnectToDatabase {
+import DAO.Emp99_DAO;
 
+public class ConnectToDatabase {
+	
 	public static void main(String[] args) {
 		String dbURL = "jdbc:mysql://localhost:3306/sh7";
 		String username = "root"; // change as per your username
@@ -35,5 +37,5 @@ public class ConnectToDatabase {
 		}
 
 	}
-
 }
+
