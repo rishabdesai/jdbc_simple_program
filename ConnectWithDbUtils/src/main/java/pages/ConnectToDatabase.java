@@ -1,5 +1,4 @@
-// Simple program the check the connectivity of java program with MySQL database.
-
+//simplifying the code using separate class for connection (DbUtils.java)
 package pages;
 
 import java.sql.Connection;
